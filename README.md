@@ -28,7 +28,7 @@
 - Collaborated effectively with team members to deliver a functional and visually appealing application
 - **Tech Stack:** `MongoDB`, `Express.js`, `React.js`, `Node.js`, `CSS`
 
-### MakersBnB
+### VenBnB
 
 - Airbnb clone in the style of Makers Tech
 - Utilising a `Python` backend, `Flask` framework for `SQL` database, HTML/CSS frontend communication
