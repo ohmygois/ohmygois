@@ -50,11 +50,10 @@ _London, UK_
 ### SiteMinder
 
 _London, UK_  
-**Senior Regional Sales Manager for Iberia** _(Sept 2022 – Oct 2023)_
+**Senior Regional Sales Manager for Iberia** _(Sept 2016 – May 2023)_
 
-- Managed daily client meetings and liaised with multiple candidates across industries and functions in a bustling international scope
-- Demonstrated strong communication, negotiation, and stakeholder management skills while working with various large clients
-
+- Reported directly to the VP of Sales and Chief Sales Officer (CSO), providing regular updates on team performance, market trends, and strategic initiatives.
+- Hired, coached, and managed a team of 9 Sales Reps across Portugal and Spain, consistently exceeding sales targets and driving growth.
 
 ## 📚 Education & Other
 
