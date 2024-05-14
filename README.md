@@ -10,7 +10,7 @@
 
 - **Languages:** `Python`, `Swift`, `SQL`, `TypeScript`, `JavaScript`, `React.js`
 - **Methodologies:** `Test Driven Development (TDD)`, `Pair Programming`, `Agile methodology`
-- **Other Skills:** Public Speaking/Presenting, Stakeholder Management
+- **Other Skills:** Public Speaking/Presenting, Team Management
 
 ## 💻 Projects
 
@@ -26,7 +26,7 @@
 - Developed a Facebook clone simulating a real-world work environment
 - **Implemented key social media features** using `MERN Stack`
 - Collaborated effectively with team members to deliver a functional and visually appealing application
-- **Tech Stack:** `GoLang`, `Gin framework`, `React.js`, `CSS`
+- **Tech Stack:** `MongoDB`, `Express.js`, `React.js`, `Node.js`, `CSS`
 
 ### MakersBnB
 
