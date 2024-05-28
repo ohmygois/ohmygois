@@ -1,6 +1,6 @@
 # Andre Gois
 
-📍 London, UK | ✉️ agois@live.com | 💼 [https://www.linkedin.com/in/andrefgois/](https://www.linkedin.com/in/andrefgois/) | 💻 [github.com/ohmygois](http://github.com/ohmygois)
+📍 London, UK | ✉️ ohmygois@proton.me | 💼 [https://www.linkedin.com/in/andrefgois/](https://www.linkedin.com/in/andrefgois/) | 💻 [github.com/ohmygois](http://github.com/ohmygois)
 
 ## 👋 About Me
 
