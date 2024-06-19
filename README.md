@@ -30,7 +30,7 @@
 
 ### VenBnB
 
-- Airbnb clone in the style of Makers Tech
+- Airbnb clone where users can create accounts/listings, make bookings, and see reservations
 - Utilising a `Python` backend, `Flask` framework for `SQL` database, HTML/CSS frontend communication
 - **First group project**, learning and demonstrating good agile methodology
 - **Tech Stack:** `Python`, `Flask`, `SQL`
@@ -52,8 +52,10 @@ _London, UK_
 _London, UK_  
 **Senior Regional Sales Manager for Iberia** _(Aug 2016 – May 2023)_
 
-- Reported directly to the VP of Sales and Chief Sales Officer (CSO), providing regular updates on team performance, market trends, and strategic initiatives.
-- Hired, coached, and managed a team of 9 Sales Reps across Portugal and Spain, consistently exceeding sales targets and driving growth.
+- Reported directly to the VP of Sales and Chief Sales Officer (CSO), providing regular updates on team performance, market trends, and strategic initiatives
+- Hired, coached, and managed a team of 9 Sales Reps across Portugal and Spain, consistently exceeding sales targets and driving growth
+- Developed a coaching plan for EMEA Sales Managers to improve productivity, contributing to surpassing 40,000 customers
+- Trained sales teams efficiently during the migration of SiteMinders Products to an All-in-One platform
 
 ## 📚 Education & Other
 
