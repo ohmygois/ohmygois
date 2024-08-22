@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-**Junior Software Developer** with over 7 years of **B2B SaaS sales** experience and expertise in **test-driven development**, **object-oriented programming**, and **full-stack development**. I'm now eager to bridge the gap between technical development and business strategy to create impactful web applications.
+**Junior Software Developer** with over 7 years of **B2B SaaS sales** experience and expertise in **test-driven development**, **object-oriented programming**, and **full-stack development**. I'm now eager to bridge the gap between technical development and business strategy to create impactful web applications, build strong partnerships and grow customer bases.
 
 ## 🛠️ Technical Skills
 
